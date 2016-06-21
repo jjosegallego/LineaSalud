@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">LineaSalud</string>
+    <string name="titulo">LineaSalud</string>
+    <string name="mapa">Ubicanos en el mapa</string>
+
+
+    <string name="titulologin">INICIA SESIÓN PARA EXPERIMENTAR LINEASALUD</string>
+    <string name="login1">Correo electrónico</string>
+    <string name="login2">Contraseña</string>
+    <string name="login3">Iniciar sesión</string>
+    <string name="login4">Registrarse</string>
+    <string name="login5">¿Olvide mi contraseña?</string>
+
+    <string name="tituloregistro">GRACIAS POR ELEGIRNOS PRONTO DISFRUTARAS DE NUESTROS SERVICIOS</string>
+    <string name="registro1">Correo electrónico</string>
+    <string name="registro2">Contraseña</string>
+    <string name="registro3">Confirme contraseña</string>
+    <string name="registro4">Confirmar Registro</string>
+
+
+    <string name="op1">Agenda tu cita</string>
+    <string name="op2">Pastillero</string>
+    <string name="op3">Puntos de atencion</string>
+    <string name="op4">Nuestra EPS</string>
+    <string name="op5">Configuracion</string>
+    <string name="op6">Acerca de</string>
+
+    <string name="agenda1">Ingresa la información de tu cita asignada:</string>
+    <string name="agenda6">Ingresa la información de tu formula a reclamar:</string>
+    <string name="agenda2">Confirmar cita ingresada</string>
+    <string name="agenda3">Ver citas asignadas</string>
+    <string name="agenda4">Confirmar formula ingresada</string>
+    <string name="agenda5">Ver formulas pendientes</string>
+
+    <string name="medellin1"> Ofrecemos multiples servicios de atencion hospitalaria de primer nivel con ips en diferentes puntos de la ciudad</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
